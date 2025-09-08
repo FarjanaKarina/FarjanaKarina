@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## 👩‍💻 About Me
 - 🎓 Final-year CSE undergraduate student at IUBAT, Dhaka  
