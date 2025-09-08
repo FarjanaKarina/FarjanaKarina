@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Avatar / GIF -->
-  <img src="assets/avatar.gif" width="200" alt="animated girl using laptop">
+  <img src="assets/githubAnimation.gif" width="200" alt="animated girl using laptop">
 
   <h1>Hi 👋, I'm Farjana Akter Karina</h1>
   <h3 align="center">A passionate Frontend Developer</h3>
