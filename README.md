@@ -1,7 +1,19 @@
 <div align="center">
 
   <!-- Avatar / GIF -->
-  <img src="assets/githubAnimation.gif" width="200" alt="animated girl using laptop">
+  <img src="assets/githubAnimation.gif" width="300" alt="animated girl using laptop">
+
+  ---
+
+## 🔗 Connect with me
+<a href="farjanakarina34@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/farjana-akter-karina/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+
+---
 
   <h1>Hi 👋, I'm Farjana Akter Karina</h1>
   <h3 align="center">A passionate Frontend Developer</h3>
@@ -30,6 +42,13 @@
 
 ---
 
+## 📌 Projects
+
+- **Hospital Management System** — Multi-role system for Admin, Doctor, and Patient; manages appointments, patient records, reports, invoices, and user profiles.  
+  **Languages/Technologies:** PHP, MySQL, HTML, CSS, Bootstrap, JavaScript
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarjanaKarina&show_icons=true&theme=tokyonight" />
@@ -37,15 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarjanaKarina&layout=compact&theme=tokyonight" />
 </div>
 
----
 
-## 🔗 Connect with me
-<a href="farjanakarina34@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/farjana-akter-karina/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
 
 
 <!--
