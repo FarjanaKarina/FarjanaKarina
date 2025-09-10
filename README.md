@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 
----
+<!--
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarjanaKarina&layout=compact&theme=tokyonight" />
 </div>
 
-
+-->
 
 
 <!--
